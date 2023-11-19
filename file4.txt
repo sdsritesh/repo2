@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 a file from local
-=======
 what is this
->>>>>>> 7ece37c5f4fb3019d9ea3745b9d8e4bf2278250f
+
+testing data
+
